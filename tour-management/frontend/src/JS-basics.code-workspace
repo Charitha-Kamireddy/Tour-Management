@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../JS-basics"
+		},
+		{
+			"name": "MernStack-Tour-Management",
+			"path": "../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MernStack-Tour-Management"
+	}
+}
